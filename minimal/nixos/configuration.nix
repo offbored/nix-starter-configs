@@ -181,6 +181,8 @@
         gitFull
         element-desktop
         remmina
+        libsForQt5.kate
+        vscode
       #  thunderbird
       ];
       openssh.authorizedKeys.keys = [
