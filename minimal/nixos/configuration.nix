@@ -179,6 +179,8 @@
         firefox
         chromium
         gitFull
+        element-desktop
+        remmina
       #  thunderbird
       ];
       openssh.authorizedKeys.keys = [
