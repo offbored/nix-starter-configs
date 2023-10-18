@@ -33,7 +33,7 @@
   };
 
   # hardware.enableRedistributableFirmware = true;
-  # networking.domain = "createcore.com";
+  # networking.domain = "[domain]";
 
   # Increase open file limit for sudoers
   # security.pam.loginLimits = [
